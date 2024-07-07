@@ -1,4 +1,4 @@
-Excited to share my latest machine learning project: Cardiovascular disease (CVDs)
+ machine learning project: Cardiovascular disease (CVDs)
 - Cardiovascular disease (CVDs) is the number one cause of death globally, taking an estimated 17.9 
 million lives each year, which accounts for 31% of all deaths worldwide. Four out of five CVD deaths are 
 due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 
